@@ -1,16 +1,12 @@
-{
-	"categories":[
-		{"name":"power_banks","image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/collections/dropdown-TWS_400x.png?v=1612338251"},
-		{"name":"wired_earphones","image_url":"https://5.imimg.com/data5/AW/IX/MY-1384834/earphone-500x500.jpg"},
-		{"name":"data_cables","image_url":"https://4.imimg.com/data4/AQ/NS/MY-27532837/mobile-data-card-500x500.jpg"},
-		{"name":"chargers","image_url":"https://img4.gadgetsnow.com/gd/images/products/additional/original/G25492_View_1/accessories/chargers/samsung-travel-adapter-mobile-charger-ep-ta13iweugin-white-.jpg"},
-		{"name":"memory_cards","image_url":"https://static.javatpoint.com/computer/images/memory-card.jpg"},
-		{"name":"speakers","image_url":"https://images.news18.com/ibnlive/uploads/2021/09/speakers_under_5000_india-163126912616x9.jpg"},
-		{"name":"fancy_gadgets","image_url":"https://i.ytimg.com/vi/EjAJn5kNinw/maxresdefault.jpg"},
-		{"name":"mobile_holders","image_url":"https://www.awstro.in/1950-home_default/long-neck-quick-touch-one-premium-360-adjustable-3-in-1-car-mount-holder-for-all-smartphones-3rd-generation-black.jpg"},
-		{"name":"wireless_earphones","image_url":"https://5.imimg.com/data5/UQ/LD/PU/SELLER-32473795/wemake-bluetooth-wireless-earphones-500x500.jpeg"},
-		{"name":"school_needs","image_url":"http://static1.squarespace.com/static/57bc77de9de4bb70bc51f607/t/57bceaf837c5813f34f7a2f4/1471998714787/?format=1500w"}],
-	"products":[
-		{"id":"101","title":"Boat Rockers 235 Pro, Black","image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_2_53c3483e-38d0-4a88-a8e0-b75fe5b23584.png","price":"999","old_price":"1999","category":"wireless_earphones","description":"10 MIN = 10 HRS Charge Playback\nBattery That Lasts Up To 20 Hours\nVibration Call Alert\n10mm Drivers Super Extra Bass\nIPX5 Water & Sweat Resistance with Secure Fit\nDual Pairing with Bluetooth v5.2"},
-		{"id":"102","title":"BOAT Micro USB 550","image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_1d49f007-2024-470c-8c4e-1d4758920e70_540x.png?v=1618923027","price":"149","old_price":"999","category":"data_cables","description":"Universal Compatibility\nTangle Free\n3A Fast Charging\nFits Seamlessly"}]
-}
+[
+	{"name":"Power Banks","image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/collections/dropdown-TWS_400x.png?v=1612338251"},
+	{"name":"Wired Earphones","image_url":"https://5.imimg.com/data5/AW/IX/MY-1384834/earphone-500x500.jpg"},
+	{"name":"Data Cables","image_url":"https://4.imimg.com/data4/AQ/NS/MY-27532837/mobile-data-card-500x500.jpg"},
+	{"name":"Chargers","image_url":"https://img4.gadgetsnow.com/gd/images/products/additional/original/G25492_View_1/accessories/chargers/samsung-travel-adapter-mobile-charger-ep-ta13iweugin-white-.jpg"},
+	{"name":"Memory Cards","image_url":"https://static.javatpoint.com/computer/images/memory-card.jpg"},
+	{"name":"Speakers","image_url":"https://images.news18.com/ibnlive/uploads/2021/09/speakers_under_5000_india-163126912616x9.jpg"},
+	{"name":"Fancy Gadgets","image_url":"https://i.ytimg.com/vi/EjAJn5kNinw/maxresdefault.jpg"},
+	{"name":"Mobile Holders","image_url":"https://www.awstro.in/1950-home_default/long-neck-quick-touch-one-premium-360-adjustable-3-in-1-car-mount-holder-for-all-smartphones-3rd-generation-black.jpg"},
+	{"name":"Wireless Earphones","image_url":"https://5.imimg.com/data5/UQ/LD/PU/SELLER-32473795/wemake-bluetooth-wireless-earphones-500x500.jpeg"},
+	{"name":"School Needs","image_url":"http://static1.squarespace.com/static/57bc77de9de4bb70bc51f607/t/57bceaf837c5813f34f7a2f4/1471998714787/?format=1500w"}
+]
