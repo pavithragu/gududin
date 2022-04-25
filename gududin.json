@@ -1,16 +1,15 @@
 {
-	"categories":{
-		"power_banks":"https://guardian.ng/wp-content/uploads/2017/04/power-bank.jpg",
-		"wired_earphones":"https://5.imimg.com/data5/AW/IX/MY-1384834/earphone-500x500.jpg",
-		"data_cables":"https://4.imimg.com/data4/AQ/NS/MY-27532837/mobile-data-card-500x500.jpg",
-		"chargers":"https://img4.gadgetsnow.com/gd/images/products/additional/original/G25492_View_1/accessories/chargers/samsung-travel-adapter-mobile-charger-ep-ta13iweugin-white-.jpg",
-		"memory_cards":"https://static.javatpoint.com/computer/images/memory-card.jpg",
-		"speakers":"https://images.news18.com/ibnlive/uploads/2021/09/speakers_under_5000_india-163126912616x9.jpg",
-		"fancy_gadgets":"https://i.ytimg.com/vi/EjAJn5kNinw/maxresdefault.jpg",
-		"mobile_holders":"https://www.awstro.in/1950-home_default/long-neck-quick-touch-one-premium-360-adjustable-3-in-1-car-mount-holder-for-all-smartphones-3rd-generation-black.jpg",
-		"wireless_earphones":"https://5.imimg.com/data5/UQ/LD/PU/SELLER-32473795/wemake-bluetooth-wireless-earphones-500x500.jpeg",
-		"school_needs":"http://static1.squarespace.com/static/57bc77de9de4bb70bc51f607/t/57bceaf837c5813f34f7a2f4/1471998714787/?format=1500w"
-	},
+	"categories":[
+		{"name":"power_banks","image_url":"https://guardian.ng/wp-content/uploads/2017/04/power-bank.jpg"},
+		{"name":"wired_earphones","image_url":"https://5.imimg.com/data5/AW/IX/MY-1384834/earphone-500x500.jpg"},
+		{"name":"data_cables","image_url":"https://4.imimg.com/data4/AQ/NS/MY-27532837/mobile-data-card-500x500.jpg"},
+		{"name":"chargers","image_url":"https://img4.gadgetsnow.com/gd/images/products/additional/original/G25492_View_1/accessories/chargers/samsung-travel-adapter-mobile-charger-ep-ta13iweugin-white-.jpg"},
+		{"name":"memory_cards","image_url":"https://static.javatpoint.com/computer/images/memory-card.jpg"},
+		{"name":"speakers","image_url":"https://images.news18.com/ibnlive/uploads/2021/09/speakers_under_5000_india-163126912616x9.jpg"},
+		{"name":"fancy_gadgets","image_url":"https://i.ytimg.com/vi/EjAJn5kNinw/maxresdefault.jpg"},
+		{"name":"mobile_holders","image_url":"https://www.awstro.in/1950-home_default/long-neck-quick-touch-one-premium-360-adjustable-3-in-1-car-mount-holder-for-all-smartphones-3rd-generation-black.jpg"},
+		{"name":"wireless_earphones","image_url":"https://5.imimg.com/data5/UQ/LD/PU/SELLER-32473795/wemake-bluetooth-wireless-earphones-500x500.jpeg"},
+		{"name":"school_needs","image_url":"http://static1.squarespace.com/static/57bc77de9de4bb70bc51f607/t/57bceaf837c5813f34f7a2f4/1471998714787/?format=1500w"}],
 	"products":{
 		"101":{
 			"name":"Boat Rockers 235 Pro, Black",
