@@ -1,7 +1,20 @@
-[
-  {
+[{
     "image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_2_53c3483e-38d0-4a88-a8e0-b75fe5b23584.png",
-    "title":"Boat Rockers 235 Pro, Black",
+    "title":"Boat Rockers 235 Pro (Blue)",
+    "price":"999",
+    "old_price":"1999",
+    "category":"Wireless Earphones",
+    "web_view_url":"https://raw.githubusercontent.com/pavithragu/gududin/main/products_details/boat_235_pro.html"
+  },{
+    "image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_2_53c3483e-38d0-4a88-a8e0-b75fe5b23584.png",
+    "title":"Boat Rockers 245 Pro (Black)",
+    "price":"999",
+    "old_price":"1999",
+    "category":"Wireless Earphones",
+    "web_view_url":"https://raw.githubusercontent.com/pavithragu/gududin/main/products_details/boat_235_pro.html"
+  },{
+    "image_url":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_2_53c3483e-38d0-4a88-a8e0-b75fe5b23584.png",
+    "title":"Boat Rockers 265 Pro (Red)",
     "price":"999",
     "old_price":"1999",
     "category":"Wireless Earphones",
