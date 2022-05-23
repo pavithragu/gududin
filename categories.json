@@ -1,7 +1,3 @@
 [
-	{"name":"Cables and Chargers","image_url":"https://github.com/pavithragu/gududin/raw/main/images/cables.jpg"}
-	,{"name":"Wired Earphones","image_url":"https://github.com/pavithragu/gududin/raw/main/images/wired.jpg"}
-	,{"name":"Wireless Earphones","image_url":"https://github.com/pavithragu/gududin/raw/main/images/wireless.jpg"}
-	,{"name":"Power Banks","image_url":"https://github.com/pavithragu/gududin/raw/main/images/power%20banks.jpg"}
-	,{"name":"Mobile Holders","image_url":"https://github.com/pavithragu/gududin/raw/main/images/mobile%20holders.jpg"}
+	{"name":"Earphones","image_url":"https://github.com/pavithragu/gududin/raw/main/category_images/earphones.jpg"}
 ]
