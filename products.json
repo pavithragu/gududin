@@ -14,28 +14,4 @@
     "category":"Earphones",
     "web_view_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/webview.html"
   }
- ,{
-    "image_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/image.jpg",
-    "title":"Basic earphone with mic (Brown)",
-    "price":"59",
-    "old_price":"129",
-    "category":"Earphones",
-    "web_view_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/webview.html"
-  }
- ,{
-    "image_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/image.jpg",
-    "title":"Basic earphone with mic (Green)",
-    "price":"59",
-    "old_price":"129",
-    "category":"Earphones",
-    "web_view_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/webview.html"
-  }
- ,{
-    "image_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/image.jpg",
-    "title":"Basic earphone with mic (Grey)",
-    "price":"59",
-    "old_price":"129",
-    "category":"Earphones",
-    "web_view_url":"https://github.com/pavithragu/gududin/raw/main/products_details/basic_earphone_red/webview.html"
-  }
 ]
